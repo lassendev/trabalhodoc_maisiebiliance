@@ -53,8 +53,6 @@ Descreva os principais recursos e funcionalidades que serão implementados no so
 5. DIAGRAMA DE CLASSE
    ![Desenvolvimento ](./imagem/Diagramas_MaisieBrilliance.drawio.pdf)
 
-![](RackMultipart20231129-1-kv2kww_html_cd34f313d82b8018.png)
-
 6. PROTÓTIPO DE TELAS
 
 ![Desenvolvimento do Projeto](./imagem/Prancheta1.jpg)
